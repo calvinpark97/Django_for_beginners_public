@@ -1,6 +1,7 @@
 # Django_for_beginners
 Learning Django and applying to projects from William S. Vincent's book
-Following his book to learn how to develop a django website and to get a job as a python developer
+Following his book to learn how to develop a django website and to get a job as a python developer.
+Any private information has been hidden, passwords/API keys
 
 Heroku Webpages for all apps created:
 Chapter 3: Pages App (creating a homepage and about page) - https://evening-beyond-83608.herokuapp.com/
